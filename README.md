@@ -25,3 +25,8 @@ Short event description
 
 
 [![Build Status](https://travis-ci.org/fyntech/fyntech.svg?branch=master)](https://travis-ci.org/fyntech/fyntech)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FErn-st%2Ffyntech.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FErn-st%2Ffyntech?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FErn-st%2Ffyntech.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FErn-st%2Ffyntech?ref=badge_large)
